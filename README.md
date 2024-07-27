@@ -1,5 +1,5 @@
-> **CAUTION:**  
-> The only official place to download Flag Watcher is from this [GitHub repository](https://github.com/validchoice/flag-watcher). Any other websites offering downloads or claiming to be us are not controlled by us.
+> [!CAUTION]
+> The only official place to download flag watcher are this [Github repository](https://github.com/validchoice/flag-watcher). Any other websites offering downloads or claiming to be us are not controlled by us.
 
 # Flag Watcher
 
