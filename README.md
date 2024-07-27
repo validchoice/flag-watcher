@@ -15,7 +15,7 @@ The installer will guide you through the setup process. That's it!
 
 If your antivirus software blocks the installer, it's because it's an unknown program. To proceed, click "More info" and then "Run anyway."
 
-If you have concerns about the program, you can review the [source code](https://github.com/validchoice/flag-watcher/blob/main/src/main.rs).
+If you have concerns about the program, you can review the [source code](https://github.com/validchoice/flag-watcher/blob/main/src/).
 
 Once installed, Flag Watcher will appear in your Start menu. To check a flag, click on the Windows icon, type "Flag Watcher," and it will be there!
 
