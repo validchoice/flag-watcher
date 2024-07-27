@@ -1,3 +1,4 @@
+:: Hello to the people that is reading this
 @echo off
 title installer
 
