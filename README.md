@@ -21,7 +21,7 @@ Once installed, Flag Watcher will appear in your Start menu. To check a flag, cl
 
 ## Purpose
 
-I created this tool to avoid the hassle of opening Discord, joining a server, and using the Bloxstrap bot. If you find yourself in the same situation, this tool is for you.
+I'm lazy to open Discord and use Bloxstrap test thing bot
 
 ## License
 
