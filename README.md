@@ -5,8 +5,8 @@
 
 A simple tool that checks if a specified flag exists.
 
-The way it works is by checking for existing flags in the [FVariable](https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt).
-
+Basically, Flag Watcher makes an HTTP request to [FVariable](https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt) to check if the entered flag is present. It then prints whether the flag is valid or invalid.
+ 
 Flag Watcher is supported only on Windows.
 
 ## Installation
