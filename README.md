@@ -21,7 +21,9 @@ If you have concerns about the program, you can review the [source](https://gith
 
 Once installed, Flag Watcher will appear in your Start menu. To check a flag, click on the Windows icon, type "Flag Watcher," and it will appear!
 
-## Purpose
+## Purpose 
+
+[FVariable](https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt) hurts my eyes when I read it.
 
 I'm lazy to open Discord and use bloxstrap test thing.
 
